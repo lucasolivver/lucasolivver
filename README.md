@@ -10,11 +10,11 @@
 
 ---
 
-- 🔭 Hoje trabalho como Dev Júnior Full-Stack
-- 🌱 Atualmente estou estudando C#, PHP e SQL
-- 👯 Cursando Análise e Desenvolvimento de Sistemas
+- ⚙️ Hoje trabalho como Dev Júnior Full-Stack
+- 🔭Atualmente estou estudando C#, PHP e SQL
+- 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-### 🛠️ Minhas Stacks
+🛠️ Minha Bagagem
 
 <div align="center">
   <img align="center" alt="Lucas-Csharp" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
