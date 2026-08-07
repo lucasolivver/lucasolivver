@@ -11,7 +11,7 @@
 ---
 
 - ⚙️ Hoje trabalho como Dev Júnior Full-Stack
-- 🔭Atualmente estou estudando C#, PHP e SQL
+- 🔭Atualmente aprendendo C#, PHP e SQL
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 🛠️ Minha Bagagem
