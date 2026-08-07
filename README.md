@@ -11,7 +11,7 @@
 ---
 
 - ⚙️ Hoje trabalho como Dev Júnior Full-Stack
-- 🔭Atualmente aprendendo C#, PHP e SQL
+- 🔭Atualmente aperfeiçoando C#, PHP e SQL
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 🛠️ Minha Bagagem
@@ -22,6 +22,18 @@
   <img align="center" alt="Lucas-HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-JavaScript" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+---
+
+🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasolivver/lucasolivver/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasolivver/lucasolivver/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasolivver/lucasolivver/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
